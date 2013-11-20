@@ -12,6 +12,6 @@ test:
   pool: 5
 
 production:
-  adapter: sqlite3
+  adapter: postgresql
   database: ivan_terrible_production
   pool: 5
